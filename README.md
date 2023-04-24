@@ -2,15 +2,15 @@
 
 The goal of this project is to combine everything i have learned about data wrangling, cleaning, and manipulation with Pandas so i can see how it all works together. For this project, i will start with this messy data set Shark Attack. I will need to download it, import it, use your data wrangling skills to clean it up, prepare it to be analyzed, and then export it as a clean CSV data file
 
+The main idea is the types of sharks that had attacked along the history. So I tried to clean and fill nulls values.
+ 
+
 ## How to deliver the project
 
-1. Create a new repo with the name `data-cleaning-pandas` on your github account.
-   - Create a `README.md` file on repo root with project documentation. Make sure to include as much useful information as possible. Someone that finds the README.md should be able to fully get a gist of the project without browsing your files.
+1. Files that you can find inside
    - Include a `.gitignore`
-   - At least 1 jupyter notebook is required
-   - Including your functions in a `src.py` is very, very highly reccommended (maybe even mandatory, check with your instructors)
-   - **DO NOT UPLOAD SHARKs ATTACK DATASET TO GITHUB**
-2. Open an `Issue` on this repo and paste your own repo's link.
+   - At least 1 jupyter notebook
+   - Including functions in a `src.py`  
 
 ## Links & Resources
 
