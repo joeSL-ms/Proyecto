@@ -1,0 +1,7 @@
+def selector(x):
+    lista=x.split(',')
+    for word in lista:
+        if 'shark' in word:
+            return word
+        else:
+            return ''.join(lista)
